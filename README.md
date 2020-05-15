@@ -1,4 +1,6 @@
 # mpir
 Multi-query PIR library
 
-Source code will be available soon.
+For MPIR that works with XPIR, check: https://github.com/sga001/mxpir
+
+For MPIR that works with SealPIR, check: http://github.com/sga001/mpir
